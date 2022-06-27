@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-size: large;
+    
+}
+nav{
+
+    word-spacing: 25px;
+}
+ol{
+    list-style-position: inside
+}
+.not-center{
+    text-align: left;
+}
+h1{
+    color: red;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: orange;
+}
+.img{
+    width: 400px;
+    height: 400px;
+    margin: 25px 10px;
+}
