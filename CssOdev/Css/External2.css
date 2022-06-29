@@ -1,0 +1,48 @@
+body{
+
+    margin: 10px;
+    padding: 10px;
+} 
+
+.conteiner{
+    width: 1000px;
+    margin: auto;
+    /* background-color: antiquewhite; */
+    text-align: center;
+    
+    
+}
+.ımg{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.color{
+    width: 1000px;
+    /* background-color:rgba(255,255,255,0.9); */
+   background-color: rgb(236, 236, 231);
+}
+.box1{
+   
+    width: 33%;
+    background-color: rgb(150, 201, 243);
+    height: 80px;
+    float:left;
+}
+.box2{
+    
+    width: 34%;
+    background-color: rgb(129, 191, 241);
+    height: 80px;
+    float:left;
+}
+.box3{
+    
+    width: 33%;
+    background-color: rgb(106, 181, 243);
+    height: 80px;
+    
+    float:right;
+}
